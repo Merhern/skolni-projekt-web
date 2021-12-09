@@ -1,0 +1,25 @@
+body {
+
+    width: 100%;
+
+}
+
+nav ul {
+
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+}
+
+nav ul li {
+
+    flex: 1;
+
+}
+
+nav img {
+
+    flex: 10;
+
+}
