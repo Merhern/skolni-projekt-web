@@ -20,6 +20,26 @@ nav ul li {
 
 nav img {
 
-    flex: 10;
+    flex: 1;
+    width: 690px;
+
+}
+
+footer {
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+
+}
+
+footer img {
+
+    height: 8rem;
+    min-width: 14%;
+    max-width: 25%;
+    margin: 0.8rem;
+    flex: auto;
+    
 
 }
