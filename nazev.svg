@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="50mm"
+   viewBox="0 0 500.00001 50"
+   version="1.1"
+   id="svg5709"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="nazev.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5711"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     height="50mm"
+     inkscape:zoom="0.90583672"
+     inkscape:cx="932.28722"
+     inkscape:cy="364.30407"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5706">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient38639">
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1"
+         offset="0"
+         id="stop38635" />
+      <stop
+         style="stop-color:#2ad4ff;stop-opacity:1"
+         offset="1"
+         id="stop38637" />
+    </linearGradient>
+    <rect
+       x="5.7002053"
+       y="16.163376"
+       width="1874.2025"
+       height="529.18878"
+       id="rect25697" />
+    <rect
+       x="73.333488"
+       y="69.541344"
+       width="1774.226"
+       height="455.80264"
+       id="rect11985" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38639"
+       id="linearGradient38641"
+       x1="1084.3002"
+       y1="24.111826"
+       x2="1063.2632"
+       y2="191.37193"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text11983"
+       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11985);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,3.3541117,1.7404377)"
+       id="text25695"
+       style="font-style:normal;font-weight:normal;font-size:158.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect25697);fill:url(#linearGradient38641);fill-opacity:1;stroke:none"><tspan
+         x="5.7011719"
+         y="160.92078"
+         id="tspan44506"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011444092"
+           style="font-family:'Segoe UI Symbol';-inkscape-font-specification:'Segoe UI Symbol'"
+           id="tspan44504">METRO HRADEC KRÁLOVÉ</tspan></tspan></text>
+  </g>
+</svg>
