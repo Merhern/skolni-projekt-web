@@ -1,9 +1,16 @@
 body {
 
     width: 100%;
-    background-color: black;
+    background-color: rgb(24, 24, 24);
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: white;
 
 }
 
@@ -17,13 +24,13 @@ nav {
     list-style-type: none;
 
     padding-bottom: 0.8rem;
-    border-bottom: solid 0.15rem rgb(255, 80, 246);
+    
 
 }
 
 nav ul {
-    flex: 55%;
-
+    
+    min-width: 45%;
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
@@ -40,14 +47,68 @@ nav ul li {
 
 nav img {
 
-    flex: 10%;
+    flex: 1 1;
+    max-width: 7%;
+    height: 3rem;
 
 }
 
 #nazev {
 
-   
-    margin-right: 3%;
+    flex: 1 1;
+    max-width: 30%;
+    margin-right: 1rem;
+    min-width: 200px;
+    height: 3rem;
+    
+}
+
+main {
+
+    display: flex;
+    flex-flow: column wrap;
+}
+
+main article {
+
+    flex: 1 1;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    text-align: justify;
+    
+
+}
+
+main article h1 {
+
+    margin-bottom: -1rem;
+
+}
+
+main article img {
+
+    max-width: 100%;
+    border-radius: 20px;
+
+}
+
+.separate {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+
+}
+
+footer {
+
+    position: relative;
+    clear: both;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
 }
 
 footer h1 {
@@ -79,6 +140,44 @@ footer section img {
     max-width: 25%;
     margin: 0.8rem;
     flex: auto;
+
+}
+
+@media (max-width: 1059px) {
+
+nav ul {
     
+    margin-right: 3.5%;
+    
+}
+
+#dva {
+    display: none;
+}
+}
+
+@media (max-width: 817px) {
+
+nav {
+
+    flex-wrap: wrap;
+
+}
+
+nav ul {
+
+    min-width: 368px;
+}
+
+}
+
+@media (max-width: 500px) {
+
+nav ul {
+
+    margin-left: 0;
+    margin-right: 50px;
+
+}
 
 }
