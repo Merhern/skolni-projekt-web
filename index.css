@@ -139,7 +139,6 @@ footer {
     clear: both;
     bottom: 0;
     left: 0;
-    max-height: 13rem;
     width: 100%;
     height: auto;
     background-color:  rgb(24, 24, 24);
@@ -192,6 +191,16 @@ footer section img {
 
 #mapa img {
     max-height: 45rem;
+}
+
+footer section img {
+
+    height: 4rem;
+    min-width: 5rem;
+    max-width: 12rem;
+    margin: 0.8rem;
+    flex: auto;
+
 }
 
 }
