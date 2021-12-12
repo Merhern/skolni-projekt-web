@@ -79,6 +79,16 @@ main article {
     
 
 }
+ 
+#doprovod {
+
+    flex: 1 1;
+    margin-right: 2%;
+    max-height: 35rem;
+    max-width: 43rem;
+
+}
+
 
 main article h1 {
 
@@ -213,13 +223,21 @@ footer section img {
 
 }
 
-@media (max-width: 1059px) {
+@media (max-width: 1065px) {
 
 nav ul {
     
     margin-right: 3.5%;
     
 }
+
+#doprovod {
+
+    width: 100%;
+    min-width: 100%;
+
+}
+
 
 #dva {
     display: none;
