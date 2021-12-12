@@ -139,6 +139,7 @@ footer {
     clear: both;
     bottom: 0;
     left: 0;
+    max-height: 13rem;
     width: 100%;
     height: auto;
     background-color:  rgb(24, 24, 24);
@@ -169,9 +170,9 @@ footer section {
 
 footer section img {
 
-    height: 7rem;
-    min-width: 14%;
-    max-width: 25%;
+    height: 6rem;
+    min-width: 7rem;
+    max-width: 14rem;
     margin: 0.8rem;
     flex: auto;
 
