@@ -143,12 +143,6 @@ footer {
 
 }
 
-#index {
-
-    position: relative;
-
-}
-
 footer h1 {
 
     text-align: center;
@@ -181,9 +175,29 @@ footer section img {
 
 }
 
-@media (min-width: 1920px) {
+@media (max-height: 1300px) {
 
-    
+#mapa img {
+
+    max-height: 60rem;
+
+} 
+
+}
+
+@media (max-height: 1125px) {
+
+#mapa img {
+    max-height: 45rem;
+}
+
+}
+
+@media (max-height: 890px) {
+
+#mapa img {
+    max-height: 35rem;
+}
 
 }
 
