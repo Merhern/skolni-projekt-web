@@ -143,6 +143,12 @@ footer {
 
 }
 
+#index {
+
+    position: relative;
+
+}
+
 footer h1 {
 
     text-align: center;
