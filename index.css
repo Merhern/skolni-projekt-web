@@ -181,6 +181,11 @@ main article img {
 
 }
 
+#mapa table td {
+    margin-left: 1%;
+
+}
+
 #mapa section h2 {
 
     font-size: xx-large;
