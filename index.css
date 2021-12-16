@@ -367,6 +367,11 @@ nav ul {
 
 }
 
+nav {
+
+    margin-bottom: 2rem;
+}
+
 #cenik section {
 
     width: 19rem;
