@@ -7,6 +7,12 @@ body {
 
 }
 
+.empty {
+
+    height: 17rem;
+
+}
+
 a {
 
     text-decoration: none;
@@ -69,6 +75,12 @@ main {
     flex-flow: row wrap;
 }
 
+#prace {
+
+    margin-left: 1.5%;
+
+}
+
 #cenik section {
 
     width: 30rem;
@@ -117,6 +129,7 @@ main article {
     margin-left: 4rem;
     text-align: justify;
     min-width: 27rem;
+    margin-top: 2rem;
     
 
 }
@@ -215,6 +228,7 @@ footer section {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    height: auto;
 
 }
 
@@ -304,7 +318,7 @@ nav ul {
 }
 }
 
-@media (max-width: 817px) {
+@media (max-width: 818px) {
 
 nav {
 
@@ -315,6 +329,21 @@ nav {
 nav ul {
 
     min-width: 368px;
+}
+
+#mapa img {
+
+    position: relative;
+    width: 100%;
+
+}
+
+#mapa section {
+
+    position: relative;
+    width: 88%;
+    margin-left: 8%;
+
 }
 
 }
