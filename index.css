@@ -187,6 +187,20 @@ main article img {
 
 }
 
+#mapa section table, tr, td {
+
+    margin-bottom: 0.8rem;
+    border: 1px solid rgb(61, 165, 235);
+    text-align: center;
+
+}
+
+#mapa section table {
+    width: 75%;
+    height: 11rem;
+
+}
+
 .separate {
 
     display: block;
